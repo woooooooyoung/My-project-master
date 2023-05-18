@@ -5,7 +5,10 @@ using UnityEngine.SceneManagement;
 
 public class Scene : MonoBehaviour
 {
-
+    // private void Awake()
+    // {
+    //     SceneManager.LoadScene(0);
+    // }
 
     public void ChangeSceneByName(string sceneName)
     {
