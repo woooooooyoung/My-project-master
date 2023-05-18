@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Homework/20230517/Scene/MainMenuScene.unity
+    path: Assets/Homework/20230517/Scene/Title.unity
     guid: 17f427d1f37f9134ea133257707b759e
   - enabled: 1
     path: Assets/Homework/ParkWooYoung/Scene/ParkWooYoung.unity

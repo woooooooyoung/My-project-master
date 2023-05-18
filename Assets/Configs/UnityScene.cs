@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Scene : MonoBehaviour
+public class UnityScene : MonoBehaviour
 {
     /************************************************************************
          * ¾À (Scene)
